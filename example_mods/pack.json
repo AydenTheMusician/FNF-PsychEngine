@@ -1,7 +1,8 @@
 {
-	"name": "Name",
-	"description": "Description",
-	"restart":false,
+	"name": "ROBOT MAYHEM",
+	"description": "billy creates billybot",  
+    "tip": "TIP: restart game for better gameplay!",
+	"restart":true,
 	"runsGlobally": false,
 	"color": [170, 0, 255]
 }

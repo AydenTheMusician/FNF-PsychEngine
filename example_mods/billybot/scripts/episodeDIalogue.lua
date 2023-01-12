@@ -21,7 +21,7 @@ if StoryMode == then
 
     psychDefaultFade.fadeOut = true
 
-    wait(11) then
+    wait(episodeDial) then
     {
         startSong("data/billybot", songStartUp) = true
     }
