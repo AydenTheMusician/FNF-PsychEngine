@@ -1,0 +1,11 @@
+
+
+class WorkshopMenuState extends PlayState
+{
+    if WorkshopMenuState then
+    {
+        openSongState();
+
+    
+    }
+}
